@@ -1,0 +1,13 @@
+word_list=[
+    "navgurukul",
+    "family",
+    "relationship",
+    "maharashtra",
+    "sapna",
+    "environment",
+    "human",
+    "education",
+    "nature",
+    "teacher",
+    "love",
+    "friendm"]
